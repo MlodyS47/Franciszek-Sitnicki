@@ -1,0 +1,1 @@
+Wykonuje zadanie używając pętle oraz polecenie findSubstringOccurrences

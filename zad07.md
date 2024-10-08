@@ -1,0 +1,1 @@
+Generuje anagramy dzięki funkcji generateAnagrams

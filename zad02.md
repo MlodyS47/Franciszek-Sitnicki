@@ -1,0 +1,1 @@
+uzyje polecenia sort ktore posortuje tablice

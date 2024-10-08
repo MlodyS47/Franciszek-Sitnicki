@@ -6,7 +6,7 @@ function countWordOccurrences(text, word) {
     
     const wordsArray = cleanedText.split(/\W+/); 
 
-    // Liczymy wystąpienia słowa
+    
     let count = 0;
     for (let w of wordsArray) {
         if (w === cleanedWord) {

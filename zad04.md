@@ -1,0 +1,1 @@
+Uzyje poprzedniej funkcjji Is prime i petli for

@@ -1,0 +1,1 @@
+Liczy wystąpienia danego słowa dzięki funkcji countWordOccurrences

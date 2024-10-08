@@ -1,0 +1,1 @@
+Skrypt w matematyczny sposób sprawdza, czy liczba jest pierwsza

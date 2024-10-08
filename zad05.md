@@ -1,0 +1,1 @@
+wykorzytam funkcje revers zeby obrococ slowo a potem je porownam
